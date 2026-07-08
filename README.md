@@ -1,19 +1,18 @@
+![Header](./github-header-banner.png)
 <div align="center">
 
 <!-- BANNER — substitua pela URL do seu banner no Canva ou GitHub Assets -->
 <!-- <img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/main/banner.png" alt="banner" width="100%"/> -->
 
-# Olá, mundo! Eu sou o Gabriel 👋⚡
+### ELETRICA UFCG · Analista de Dados & Machine Learning por vocação
 
-### Engenheiro Elétrico por formação · Engenheiro de Dados & ML por vocação
+*"Focado em transformar dados em insights para apoiar decisões de negócio."*
 
-*"Transformo equações diferenciais em pipelines de dados e sinais elétricos em insights acionáveis."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-sena-0802b5212)
+[![Gmail](https://img.shields.io/badge/Email-gabriel.vieira%40ee.ufcg.edu.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.vieira.eletrica@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@gabrielsena87-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsena87)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Email-gabriel.vieira%40ee.ufcg.edu.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@SEU__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=6C63FF&style=for-the-badge&label=Visitas+ao+Perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=gabrielsena87&color=6C63FF&style=for-the-badge&label=Visitas+ao+Perfil)
 
 </div>
 
@@ -32,7 +31,7 @@ gabriel = {
 }
 ```
 
-Minha trajetória começou nos circuitos e sistemas da Engenharia Elétrica na **UFCG** — uma das maiores escolas de engenharia do Nordeste. Lá aprendi algo fundamental: **todo problema complexo tem estrutura matemática**, e quem domina essa estrutura tem vantagem.
+Minha trajetória começou nos circuitos e sistemas da Engenharia Elétrica na **UFCG** — uma das maiores escolas de engenharia do Nordeste. Lá aprendi algo fundamental: **todo problema complexo tem estrutura matemática**, Acredito que a eficiência de um modelo nasce na qualidade da sua estrutura matemática. Com background em Cálculo e Probabilidade, foco em resolver desafios de dados com o rigor técnico da engenharia.
 
 Essa base me levou naturalmente para **Ciência de Dados e Machine Learning**. No **PIBIC**, processei dados experimentais do projeto **#RedeSolos**, lidando com ruído, inconsistências e prazos reais — o ambiente perfeito para desenvolver resiliência técnica. Na **Embrapii**, fui além: utilizei o supercomputador **Corisco** para treinar modelos de **visão computacional** em escala, onde milissegundos e memória GPU importam de verdade.
 
@@ -45,7 +44,7 @@ Hoje construo a ponte entre o rigor da engenharia e a agilidade dos dados — de
 ### 🐍 Linguagens & Manipulação de Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
 
 ### ☁️ Cloud & Big Data
 ![AWS](https://img.shields.io/badge/AWS%20S3%20%7C%20Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -77,7 +76,7 @@ Hoje construo a ponte entre o rigor da engenharia e a agilidade dos dados — de
 
 **Diferencial:** Execução no **supercomputador Corisco** — ambientes distribuídos com restrições de memória e tempo de GPU que exigem otimização real de código e pipelines eficientes.
 
-`Python` `OpenCV / PyTorch` `HPC` `Bash`
+`Python` `OpenCV / PyTorch` `HPC` 
 
 </td>
 <td width="50%" valign="top">
@@ -95,30 +94,13 @@ Hoje construo a ponte entre o rigor da engenharia e a agilidade dos dados — de
 </tr>
 </table>
 
-> 💡 *Mais projetos em construção — acompanhe os repositórios fixados abaixo.*
+> 💡 *Mais projetos em construção .*
 
 ---
 
-## 📈 GitHub em Números
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -140,8 +122,8 @@ Hoje construo a ponte entre o rigor da engenharia e a agilidade dos dados — de
 Estou aberto a colaborações em projetos de **dados**, **ML** e **pesquisa aplicada**.
 Se você trabalha com problemas difíceis que precisam de rigor matemático + execução prática — **me chama**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/E--mail-Enviar%20mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-sena-0802b5212/)
+[![Gmail](https://img.shields.io/badge/E--mail-Enviar%20mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.vieira.eletrica@gmail.com)
 
 ---
 
