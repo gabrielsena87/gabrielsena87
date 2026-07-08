@@ -1,16 +1,152 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gabrielsena87/gabrielsena87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- BANNER — substitua pela URL do seu banner no Canva ou GitHub Assets -->
+<!-- <img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/main/banner.png" alt="banner" width="100%"/> -->
 
-Here are some ideas to get you started:
+# Olá, mundo! Eu sou o Gabriel 👋⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Engenheiro Elétrico por formação · Engenheiro de Dados & ML por vocação
+
+*"Transformo equações diferenciais em pipelines de dados e sinais elétricos em insights acionáveis."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Email-gabriel.vieira%40ee.ufcg.edu.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@SEU__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=6C63FF&style=for-the-badge&label=Visitas+ao+Perfil)
+
+</div>
+
+---
+
+## 🧭 Sobre Mim
+
+```python
+gabriel = {
+    "formação":     "Engenharia Elétrica · UFCG (Universidade Federal de Campina Grande)",
+    "foco_atual":   ["Engenharia de Dados", "Machine Learning", "Visão Computacional"],
+    "pesquisa":     "PIBIC · Projeto #RedeSolos — análise de dados experimentais de solos",
+    "hpc":          "Supercomputador Corisco (Embrapii) — modelos de visão computacional",
+    "superpoder":   "Álgebra Linear + Estatística aplicadas a problemas reais de dados",
+    "filosofia":    "Cada dataset é um sistema dinâmico esperando ser modelado ⚡📊",
+}
+```
+
+Minha trajetória começou nos circuitos e sistemas da Engenharia Elétrica na **UFCG** — uma das maiores escolas de engenharia do Nordeste. Lá aprendi algo fundamental: **todo problema complexo tem estrutura matemática**, e quem domina essa estrutura tem vantagem.
+
+Essa base me levou naturalmente para **Ciência de Dados e Machine Learning**. No **PIBIC**, processei dados experimentais do projeto **#RedeSolos**, lidando com ruído, inconsistências e prazos reais — o ambiente perfeito para desenvolver resiliência técnica. Na **Embrapii**, fui além: utilizei o supercomputador **Corisco** para treinar modelos de **visão computacional** em escala, onde milissegundos e memória GPU importam de verdade.
+
+Hoje construo a ponte entre o rigor da engenharia e a agilidade dos dados — de pipelines ETL a modelos preditivos.
+
+---
+
+## 🛠️ Stack & Especialidades
+
+### 🐍 Linguagens & Manipulação de Dados
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### ☁️ Cloud & Big Data
+![AWS](https://img.shields.io/badge/AWS%20S3%20%7C%20Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP%20BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+### 🤖 Machine Learning & IA
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini%20%7C%20Antigravity-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+### 🔧 Ferramentas & Ambiente
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🚀 Projetos de Destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 Visão Computacional · Embrapii
+**Contexto:** Pesquisa aplicada em parceria com a Embrapii, utilizando infraestrutura de HPC.
+
+**Propósito:** Desenvolvimento e treinamento de modelos de visão computacional para análise automatizada de imagens em escala industrial.
+
+**Diferencial:** Execução no **supercomputador Corisco** — ambientes distribuídos com restrições de memória e tempo de GPU que exigem otimização real de código e pipelines eficientes.
+
+`Python` `OpenCV / PyTorch` `HPC` `Bash`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Projeto #RedeSolos · PIBIC/UFCG
+**Contexto:** Iniciação Científica com coleta e processamento de dados experimentais de amostras de solos do Nordeste.
+
+**Propósito:** Construir pipelines de limpeza, transformação e análise estatística de dados heterogêneos e ruidosos para suporte a modelos preditivos.
+
+**Diferencial:** Trabalho com dados reais e imperfeitos em contexto acadêmico de alta cobrança — desenvolvendo senso crítico sobre qualidade de dados e reprodutibilidade.
+
+`Python` `Pandas` `Estatística` `SQL`
+
+</td>
+</tr>
+</table>
+
+> 💡 *Mais projetos em construção — acompanhe os repositórios fixados abaixo.*
+
+---
+
+## 📈 GitHub em Números
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🧠 Atualmente Aprendendo
+
+```
+📦  Arquitetura de Data Lakehouse (Delta Lake / Iceberg)
+🔁  Orquestração com Apache Airflow
+🧬  MLOps — ciclo de vida de modelos em produção
+📐  Álgebra Linear aplicada a Transformers (atenção e embeddings)
+```
+
+---
+
+## 🤝 Vamos Conversar?
+
+<div align="center">
+
+Estou aberto a colaborações em projetos de **dados**, **ML** e **pesquisa aplicada**.
+Se você trabalha com problemas difíceis que precisam de rigor matemático + execução prática — **me chama**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/E--mail-Enviar%20mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@email.com)
+
+---
+
+<samp>⚡ Engenharia Elétrica me ensinou que energia se transforma, nunca se perde.<br>Dados são energia bruta — meu trabalho é transformá-los em valor. 📊</samp>
+
+![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
