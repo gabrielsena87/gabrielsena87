@@ -24,7 +24,7 @@
 gabriel = {
     "formação":     "Engenharia Elétrica · UFCG (Universidade Federal de Campina Grande)",
     "foco_atual":   ["Engenharia de Dados", "Machine Learning", "Visão Computacional"],
-    "pesquisa":     "PIBIC · Projeto #RedeSolos — análise de dados experimentais de solos",
+    "pesquisa":     "P&D Pesquisa industrial Gêmeos Digitais",
     "hpc":          "Supercomputador Corisco (Embrapii) — modelos de visão computacional",
     "superpoder":   "Álgebra Linear + Estatística aplicadas a problemas reais de dados",
     "filosofia":    "Cada dataset é um sistema dinâmico esperando ser modelado ⚡📊",
@@ -33,7 +33,7 @@ gabriel = {
 
 Minha trajetória começou nos circuitos e sistemas da Engenharia Elétrica na **UFCG** — uma das maiores escolas de engenharia do Nordeste. Lá aprendi algo fundamental: **todo problema complexo tem estrutura matemática**, Acredito que a eficiência de um modelo nasce na qualidade da sua estrutura matemática. Com background em Cálculo e Probabilidade, foco em resolver desafios de dados com o rigor técnico da engenharia.
 
-Essa base me levou naturalmente para **Ciência de Dados e Machine Learning**. No **PIBIC**, processei dados experimentais do projeto **#RedeSolos**, lidando com ruído, inconsistências e prazos reais — o ambiente perfeito para desenvolver resiliência técnica. Na **Embrapii**, fui além: utilizei o supercomputador **Corisco** para treinar modelos de **visão computacional** em escala, onde milissegundos e memória GPU importam de verdade.
+Essa base me levou naturalmente para **Ciência de Dados e Machine Learning**. No **PIBIC(Projeto de Iniciação Científica)**, processei dados experimentais de  **Gramíneas**, lidando com ruído, inconsistências e prazos reais — o ambiente perfeito para desenvolver resiliência técnica. Na **Embrapii**, fui além: utilizei o supercomputador **Corisco** para treinar modelos de **visão computacional** em escala, onde milissegundos e memória GPU importam de verdade.
 
 Hoje construo a ponte entre o rigor da engenharia e a agilidade dos dados — de pipelines ETL a modelos preditivos.
 
@@ -69,7 +69,8 @@ Hoje construo a ponte entre o rigor da engenharia e a agilidade dos dados — de
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 Visão Computacional · Embrapii
+### 🔬 Visão Computacional · Embrapii - Pesquisa e Desenvolvimento (P&D) Industrial
+
 **Contexto:** Pesquisa aplicada em parceria com a Embrapii, utilizando infraestrutura de HPC.
 
 **Propósito:** Desenvolvimento e treinamento de modelos de visão computacional para análise automatizada de imagens em escala industrial.
@@ -81,8 +82,8 @@ Hoje construo a ponte entre o rigor da engenharia e a agilidade dos dados — de
 </td>
 <td width="50%" valign="top">
 
-### 🌱 Projeto #RedeSolos · PIBIC/UFCG
-**Contexto:** Iniciação Científica com coleta e processamento de dados experimentais de amostras de solos do Nordeste.
+### · PIBIC/UFCG
+**Contexto:** Iniciação Científica com coleta e processamento de dados experimentais de amostras de Tifton 85.
 
 **Propósito:** Construir pipelines de limpeza, transformação e análise estatística de dados heterogêneos e ruidosos para suporte a modelos preditivos.
 
@@ -127,7 +128,7 @@ Se você trabalha com problemas difíceis que precisam de rigor matemático + ex
 
 ---
 
-<samp>⚡ Engenharia Elétrica me ensinou que energia se transforma, nunca se perde.<br>Dados são energia bruta — meu trabalho é transformá-los em valor. 📊</samp>
+<samp>⚡ A melhor maneira de prever o futuro, é inventa-lo.<br>Dados são energia bruta — meu trabalho é transformá-los em valor. 📊</samp>
 
 ![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
