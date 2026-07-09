@@ -8,7 +8,7 @@
 
 *"Focado em transformar dados em insights para apoiar decisões de negócio."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-sena-0802b5212)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Email-gabriel.vieira%40ee.ufcg.edu.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.vieira.eletrica@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@gabrielsena87-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsena87)
 
@@ -82,7 +82,7 @@ Hoje construo a ponte entre o rigor da engenharia e a agilidade dos dados — de
 </td>
 <td width="50%" valign="top">
 
-### · PIBIC/UFCG
+###  PIBIC/UFCG
 **Contexto:** Iniciação Científica com coleta e processamento de dados experimentais de amostras de Tifton 85.
 
 **Propósito:** Construir pipelines de limpeza, transformação e análise estatística de dados heterogêneos e ruidosos para suporte a modelos preditivos.
@@ -123,7 +123,7 @@ Hoje construo a ponte entre o rigor da engenharia e a agilidade dos dados — de
 Estou aberto a colaborações em projetos de **dados**, **ML** e **pesquisa aplicada**.
 Se você trabalha com problemas difíceis que precisam de rigor matemático + execução prática — **me chama**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-sena-0802b5212/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/E--mail-Enviar%20mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.vieira.eletrica@gmail.com)
 
 ---
