@@ -1,281 +1,232 @@
-![Header](./github-header-banner.png)
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--              G A B R I E L   S E N A  ·  G I T H U B              -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ════════════════════ TAGLINE ANIMADA ════════════════════ -->
+![Header](./github-header-banner.png)
+
+<br/>
+
+<!-- ═══════════ TYPING SVG ═══════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Transforming+thermal+images+into+predictive+intelligence+⚡;Vision+Transformers+%7C+DINOv2+%7C+Predictive+Maintenance+🔥;Clean+Code+is+not+optional+—+it's+engineering+discipline+📐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=E94560&center=true&vCenter=true&repeat=true&width=650&height=30&lines=Thermal+Vision+%7C+Predictive+Maintenance+%7C+Clean+Code" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<!-- ═══════════ IDENTITY BADGES ═══════════ -->
+
+[![UFCG](https://img.shields.io/badge/Engenharia_Elétrica-UFCG-e94560?style=flat-square&labelColor=0d1117)](https://www.ufcg.edu.br/)&nbsp;&nbsp;
+[![Embrapii](https://img.shields.io/badge/P%26D_Industrial-Embrapii-00d4aa?style=flat-square&labelColor=0d1117)](https://embrapii.org.br/)&nbsp;&nbsp;
+[![HPC](https://img.shields.io/badge/HPC-Supercomputador_Corisco-6c63ff?style=flat-square&labelColor=0d1117)](#)
+
 <br/>
 
-<!-- ════════════════════ BADGES DE IDENTIDADE ════════════════════ -->
-
-[![UFCG](https://img.shields.io/badge/⚡_Engenharia_Elétrica-UFCG-e94560?style=for-the-badge&labelColor=0d1117)](https://www.ufcg.edu.br/)
-[![Embrapii](https://img.shields.io/badge/🔬_Bolsista_P%26D-Embrapii-00d4aa?style=for-the-badge&labelColor=0d1117)](https://embrapii.org.br/)
-[![Corisco](https://img.shields.io/badge/🖥️_Supercomputador-Corisco-6c63ff?style=for-the-badge&labelColor=0d1117)](#)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Sena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielsena87)
-[![Gmail](https://img.shields.io/badge/Email-gabriel.vieira.eletrica-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.vieira.eletrica@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@gabrielsena87-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsena87)
-
-![Profile Views](https://komarev.com/ghpvc/?username=gabrielsena87&color=6C63FF&style=for-the-badge&label=Visitas+ao+Perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=gabrielsena87&color=e94560&style=flat-square&label=views)
 
 </div>
 
----
+<br/>
 
-## 🧭 Sobre Mim
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                          SOBRE MIM                                -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## &nbsp; Sobre Mim
 
 ```python
 class GabrielSena:
     """Engenheiro que enxerga defeitos antes que eles aconteçam."""
 
-    role       = "Bolsista de Pesquisa Industrial — Visão Computacional"
-    education  = "Engenharia Elétrica @ UFCG (2025–2029)"
-    lab        = "Embrapii P&D / PaqTcPB — Supercomputador Corisco"
-    philosophy = "Yetser HaTov — Código intencional, limpo por princípio"
+    education  = "Engenharia Elétrica — UFCG"
+    research   = "P&D Visão Computacional — Embrapii / PaqTcPB"
+    hpc        = "Supercomputador Corisco — treinamento de modelos em escala"
+    philosophy = "Yetser HaTov — código intencional, limpo por princípio"
 
-    expertise  = [
+    focus = [
         "Predictive Maintenance via Thermography",
-        "Vision Transformers (DINOv2 · ViT)",
-        "High-Voltage Electrical Systems (NBR 15866 · IEC 60076-7)",
+        "Vision Transformers · DINOv2 · ViT",
+        "High-Voltage Systems · NBR 15866 · IEC 60076-7",
         "MLOps with Autonomous AI Agents",
-        "Clean Code · SOLID · F.I.R.S.T. Testing",
+        "Clean Code · SOLID · F.I.R.S.T.",
     ]
 ```
 
-Minha trajetória começou nos circuitos e sistemas da Engenharia Elétrica na **UFCG** — uma das maiores escolas de engenharia do Nordeste. Lá aprendi algo fundamental: **todo problema complexo tem estrutura matemática**. Acredito que a eficiência de um modelo nasce na qualidade da sua estrutura matemática. Com background em Cálculo e Probabilidade, foco em resolver desafios de dados com o rigor técnico da engenharia.
+Minha trajetória começou nos circuitos e sistemas da Engenharia Elétrica na **UFCG**. Lá aprendi algo fundamental: **todo problema complexo tem estrutura matemática**. Essa base me levou para **Machine Learning e Visão Computacional**, onde utilizo o supercomputador **Corisco** para treinar **Vision Transformers (DINOv2)** aplicados à **termografia preditiva de ativos elétricos de alta tensão**.
 
-Essa base me levou naturalmente para **Machine Learning e Visão Computacional**. No **PIBIC**, processei dados experimentais de **Gramíneas**, lidando com ruído, inconsistências e prazos reais — o ambiente perfeito para desenvolver resiliência técnica. Na **Embrapii**, fui além: utilizei o supercomputador **Corisco** para treinar **Vision Transformers (DINOv2)** em escala industrial, aplicados à **termografia preditiva de ativos elétricos de alta tensão** — onde milissegundos e memória GPU importam de verdade.
-
-Hoje construo a ponte entre o rigor da engenharia elétrica e a inteligência artificial — de normas técnicas (NBR 15866, IEC 60076-7) a modelos de visão computacional que preveem falhas antes que aconteçam.
+Hoje construo a ponte entre normas técnicas (NBR 15866, IEC 60076-7) e modelos de visão computacional que **preveem falhas antes que aconteçam**.
 
 ---
 
-## 🚀 Projetos de Destaque
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                          PROJETOS                                 -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## &nbsp; Projetos
 
 <br/>
 
-<!-- ─────────── PROJETO 1: PYRON ─────────── -->
+<!-- ── 01 · PYRON ───────────────────────────────────────────────── -->
 
-<table>
-<tr>
-<td width="80" align="center">
-  <img src="https://img.shields.io/badge/01-0d1117?style=for-the-badge&labelColor=e94560&color=0d1117" />
-</td>
-<td>
-
-### 🔥 [Pyron — Manutenção Preditiva por Termografia Digital](https://github.com/gabrielsena87/Pyron---Embrapii)
-
-**Software industrial completo** para diagnóstico preditivo de ativos elétricos de alta tensão — transformadores de potência, subestações e linhas de transmissão.
-
-</td>
-</tr>
-</table>
+> ### 🔥 &nbsp;[Pyron — Manutenção Preditiva por Termografia](https://github.com/gabrielsena87/Pyron---Embrapii)
+>
+> Software industrial para diagnóstico preditivo de **transformadores de potência** e **subestações** de alta tensão.
+>
+> `PyTorch` `ONNX` `FastAPI` `OpenCV` `FLIR` `ReportLab` `C#`
 
 <details>
-<summary>🔽 <b>Expandir detalhes técnicos</b></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;→ ver detalhes</summary>
+
 <br/>
 
-| Camada | Stack |
-|--------|-------|
-| **ML & Visão** | PyTorch · ONNX Runtime · RapidOCR · OpenCV · DINOv2 |
-| **Back-end** | FastAPI · Uvicorn · Python-Multipart · HTTPX |
-| **Front-end** | Edge App Mode · HTML5 · CSS3 Modular · Vanilla JS |
-| **Launcher** | C# nativo compilado (`csc.exe`) — zero dependências |
-| **Relatórios** | ReportLab — laudos periciais em PDF (padrão ART) |
+| Camada | Tecnologias |
+|:-------|:------------|
+| ML & Visão | PyTorch · ONNX Runtime · RapidOCR · OpenCV · DINOv2 |
+| Back-end | FastAPI · Uvicorn · HTTPX |
+| Front-end | Edge App Mode · HTML5 · CSS3 Modular · Vanilla JS |
+| Desktop | C# nativo compilado — zero dependências externas |
+| Relatórios | ReportLab — laudos periciais em PDF (padrão ART) |
 
-**Funcionalidades-chave:**
-
-- 🌡️ **Ingestão Radiométrica FLIR** — leitura direta de matrizes térmicas + algoritmo proprietário de inversão de paleta
-- ⚖️ **Motor Normativo Duplo** — ABNT NBR 15866 (MTA Projetada) + NETA (ΔT entre fases)
-- 🧬 **Gêmeo Físico** — envelhecimento de isolamento via equação de Arrhenius (IEC 60076-7 / IEEE C57.91)
-- 📄 **Laudo Automático** — emissão de relatórios periciais em PDF conformes com ART
-- 🎯 **Detecção ONNX** — detectores treinados com anotações CVAT exportados para inferência leve
+**Destaques:**
+- Ingestão radiométrica FLIR + algoritmo de inversão de paleta de cores
+- Motor normativo duplo — **ABNT NBR 15866** (MTA Projetada) + **NETA** (ΔT entre fases)
+- Gêmeo físico — envelhecimento de isolamento via Arrhenius (IEC 60076-7 / IEEE C57.91)
+- Geração automática de laudos periciais em PDF
+- Detectores ONNX treinados com anotações CVAT
 
 </details>
 
 <br/>
 
-<!-- ─────────── PROJETO 2: THERMAL IMAGE CLASSIFICATION ─────────── -->
+<!-- ── 02 · THERMAL IMAGE CLASSIFICATION ────────────────────────── -->
 
-<table>
-<tr>
-<td width="80" align="center">
-  <img src="https://img.shields.io/badge/02-0d1117?style=for-the-badge&labelColor=00d4aa&color=0d1117" />
-</td>
-<td>
-
-### ⚡ [Modelo de Predição Industrial com Imagens Térmicas](https://github.com/gabrielsena87/modelo-de-predicao-industrial-com-imagens-termicas)
-
-**DINOv2 ViT-B/14** aplicado à classificação de 5 classes críticas de equipamentos de subestação com **98.52% de acurácia** em teste cego — auditoria rigorosa contra overfitting e burst effect.
-
-</td>
-</tr>
-</table>
+> ### ⚡ &nbsp;[Predição Industrial com Imagens Térmicas](https://github.com/gabrielsena87/modelo-de-predicao-industrial-com-imagens-termicas)
+>
+> **DINOv2 ViT-B/14** para classificação de 5 classes de equipamentos de subestação — **98.52%** de acurácia em teste cego, com auditoria contra overfitting e burst effect.
+>
+> `DINOv2` `PyTorch` `Scikit-Learn` `t-SNE` `Stratified K-Fold`
 
 <details>
-<summary>🔽 <b>Expandir detalhes técnicos</b></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;→ ver detalhes</summary>
+
 <br/>
 
-| Métrica | Valor |
-|---------|-------|
-| **Acurácia Hold-out** (135 imagens) | **98.52%** |
-| **Acurácia 5-Fold CV** (893 imagens) | **99.44% ± 0.50%** |
-| **F1-Score Ponderado** | **0.9944** |
-| **Backbone** | Meta AI DINOv2 ViT-B/14 (768-D CLS token) |
-| **Classificadores** | Logistic Regression L2 · SVM RBF · Random Forest |
+| Métrica | Resultado |
+|:--------|:----------|
+| Acurácia Hold-out (135 imagens) | **98.52%** |
+| Acurácia 5-Fold CV (893 imagens) | **99.44% ± 0.50%** |
+| F1-Score Ponderado | **0.9944** |
+| Backbone | Meta AI DINOv2 ViT-B/14 — 768-D |
+| Classificadores | Logistic Regression · SVM RBF · Random Forest |
 
-**Classes de equipamentos elétricos (893 imagens reais):**
+**893 imagens reais** de 5 classes críticas: disjuntores · seccionadoras · transformadores de potência · para-raios · bobinas de bloqueio.
 
-| Classe | Imagens | % |
-|--------|---------|---|
-| 🔌 Disjuntores (Circuit Breakers) | 203 | 22.7% |
-| 🔀 Seccionadoras (Disconnectors) | 180 | 20.2% |
-| 🔋 Transformadores de Potência | 176 | 19.7% |
-| ⚡ Para-raios (Surge Arresters) | 181 | 20.3% |
-| 📡 Bobinas de Bloqueio (Wave Traps) | 153 | 17.1% |
-
-**Diferenciais de engenharia:**
-- 🛡️ Mitigação do **Burst Effect** — fotos em rajada com fundos idênticos
-- 🔥 **Localizador Geométrico de Hotspots** — coordenadas exatas do ponto mais quente
-- 📏 **Motor Normativo NBR 15572 / NFPA 70B** — severidade por ΔT
-- 🧪 **Testes F.I.R.S.T.** em 0.01s · Dataclasses imutáveis · Módulos < 150 linhas
+**Destaques:**
+- Mitigação do burst effect (fotos em rajada com fundos idênticos)
+- Localizador geométrico de hotspots — coordenadas, área e bounding box
+- Motor normativo NBR 15572 / NFPA 70B
+- Testes F.I.R.S.T. · Dataclasses imutáveis · Módulos < 150 linhas
 
 </details>
 
 <br/>
 
-<!-- ─────────── PROJETO 3: THERMAL VISION PIPELINE ─────────── -->
+<!-- ── 03 · HYBRID PIPELINE ────────────────────────────────────── -->
 
-<table>
-<tr>
-<td width="80" align="center">
-  <img src="https://img.shields.io/badge/03-0d1117?style=for-the-badge&labelColor=6c63ff&color=0d1117" />
-</td>
-<td>
-
-### 🧠 [Thermal Vision AI — Pipeline Híbrido DINOv2 + SIFT](https://github.com/gabrielsena87/projetos)
-
-**Ensemble stacking** combinando deep features (DINOv2 768-D) + descritores geométricos clássicos (SIFT 128-D) → vetor híbrido de **896 dimensões** para identificação robusta de equipamentos de subestação.
-
-</td>
-</tr>
-</table>
+> ### 🧠 &nbsp;[Thermal Vision AI — DINOv2 + SIFT](https://github.com/gabrielsena87/projetos)
+>
+> Pipeline de **ensemble stacking** que combina deep features (DINOv2 768-D) com descritores geométricos (SIFT 128-D) → vetor híbrido de **896 dimensões** — **99.10%** de acurácia.
+>
+> `DINOv2` `SIFT` `StackingClassifier` `PCA` `Fine-Tuning`
 
 <details>
-<summary>🔽 <b>Expandir detalhes técnicos</b></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;→ ver detalhes</summary>
+
 <br/>
 
 ```
-Vetor Híbrido (896-D)
-├── DINOv2 ViT-B/14 ──── 768 atributos contextuais (deep features)
-└── SIFT ─────────────── 128 atributos geométricos locais (média)
-    │
-    ▼
-StandardScaler → VarianceThreshold → SelectKBest → PCA
-    │
-    ▼
-StackingClassifier
-├── KNN
-├── Random Forest
-├── SVM RBF
-└── Meta-Learner: Logistic Regression
+DINOv2 ViT-B/14 (768-D)  +  SIFT (128-D)
+              │                    │
+              └──────┬─────────────┘
+                     ▼
+        StandardScaler → VarianceThreshold → SelectKBest → PCA
+                     │
+                     ▼
+              StackingClassifier
+         ┌──────┼──────────┐
+        KNN    RF       SVM RBF
+              └──┬──┘
+          Logistic Regression
+              (meta-learner)
 ```
 
-| Métrica | Valor |
-|---------|-------|
-| **Acurácia 5-Fold CV** | **99.10%** |
-| **Cohen's Kappa** | **0.9887** |
-| **Macro F1** | **0.9910** |
+| Métrica | Resultado |
+|:--------|:----------|
+| Acurácia 5-Fold CV | **99.10%** |
+| Cohen's Kappa | **0.9887** |
+| Macro F1 | **0.9910** |
 
-**Extras:** Fine-tuning supervisionado de ViT · Dashboard HTML automático · Inferência via CLI
-
-</details>
-
-<br/>
-
-<!-- ─────────── PROJETO 4: VIT TERMOVISION + MOJO ─────────── -->
-
-<table>
-<tr>
-<td width="80" align="center">
-  <img src="https://img.shields.io/badge/04-0d1117?style=for-the-badge&labelColor=ff6b6b&color=0d1117" />
-</td>
-<td>
-
-### 🏎️ ViT Termovision — Inferência em Tempo Real com Mojo
-
-**Pipeline de borda de ultra-alta performance** usando a linguagem **Mojo** e **Modular MAX Runtime** para classificação termográfica em tempo real de motores de indução e transformadores secos (dataset BNUT — 795 imagens).
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>🔽 <b>Expandir detalhes técnicos</b></summary>
-<br/>
-
-**Dataset BNUT (795 imagens termográficas):**
-
-| Equipamento | Imagens | Condições de Falha |
-|-------------|---------|-------------------|
-| 🔋 Transformador Seco | 346 | 8 níveis de curto entre espiras (0–600 espiras) + 90 GT masks |
-| ⚙️ Motor de Indução 3φ | 449 | Curto estatórico (10/30/50 espiras) · Ventilador · Rotor bloqueado |
-
-**Stack de inferência:**
-- 🦎 **Mojo** — pipeline de tempo real compilado nativamente
-- 🧠 **DINOv2 + ViT-B/16** — backbone de classificação
-- 📸 Processamento multivariante: CLAHE · Letterbox 224×224 · Radiometric grayscale
-- 🔒 Auditoria de integridade via checksums SHA-256
+Fine-tuning supervisionado de ViT · Dashboard HTML automático · CLI de inferência
 
 </details>
 
 <br/>
 
-<!-- ─────────── PROJETO 5: ORQUESTRADOR MLOPS ─────────── -->
+<!-- ── 04 · MOJO REALTIME ──────────────────────────────────────── -->
 
-<table>
-<tr>
-<td width="80" align="center">
-  <img src="https://img.shields.io/badge/05-0d1117?style=for-the-badge&labelColor=ffd93d&color=0d1117" />
-</td>
-<td>
-
-### 🤖 Orquestrador MLOps Multiagente Autônomo
-
-**Framework de agentes de IA colaborativos** (Gemini + Antigravity SDK) que orquestra treinamento, validação e QA de modelos para detecção de falhas em isoladores e conectores de subestação — com loop fechado de feedback e tolerância zero para falsos negativos.
-
-</td>
-</tr>
-</table>
+> ### 🏎️ &nbsp;ViT Termovision — Tempo Real com Mojo
+>
+> Inferência de **ultra-alta performance** usando **Mojo** e **Modular MAX Runtime** para classificação em tempo real de **motores de indução** e **transformadores secos** (dataset BNUT — 795 imagens).
+>
+> `Mojo` `MAX Runtime` `DINOv2` `ViT-B/16` `CLAHE` `SHA-256`
 
 <details>
-<summary>🔽 <b>Expandir detalhes técnicos</b></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;→ ver detalhes</summary>
+
+<br/>
+
+| Equipamento | Imagens | Falhas |
+|:------------|:--------|:-------|
+| Transformador Seco | 346 | 8 níveis de curto entre espiras + 90 GT masks |
+| Motor de Indução 3φ | 449 | Curto estatórico · Ventilador · Rotor bloqueado |
+
+- Pipeline Mojo compilado nativamente para inferência em borda
+- Processamento multivariante: raw · CLAHE · letterbox 224×224
+- Auditoria de integridade via checksums SHA-256
+- Streaming de vídeo com análise de estabilidade temporal
+
+</details>
+
+<br/>
+
+<!-- ── 05 · MLOPS ORCHESTRATOR ─────────────────────────────────── -->
+
+> ### 🤖 &nbsp;Orquestrador MLOps Multiagente
+>
+> Framework de **agentes de IA autônomos** (Gemini + Antigravity SDK) para treinamento, validação e QA de modelos — detecção de falhas em **isoladores** e **conectores** de subestação.
+>
+> `Asyncio` `Gemini API` `Antigravity SDK` `DINOv2 ViT-S/14`
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;→ ver detalhes</summary>
+
 <br/>
 
 ```mermaid
 flowchart LR
-    A["🔧 Engenheiro de Dados"]
-    B["🧠 Engenheiro de ML"]
-    C["🛡️ Engenheiro de QA"]
-
-    A -->|"DINOv2 ViT-S/14\n384-D embeddings"| B
-    B -->|"SVM RBF\nRandom Forest"| C
-    C -->|"F1 ≥ 0.88\nRecall ≥ 0.90"| D{"Aprovado?"}
-    D -->|"✅"| E["📄 Relatório Final"]
-    D -->|"❌ Feedback"| B
+    A["🔧 Eng. de Dados"] -->|"DINOv2 ViT-S/14\n384-D embeddings"| B["🧠 Eng. de ML"]
+    B -->|"SVM RBF\nRandom Forest"| C["🛡️ Eng. de QA"]
+    C --> D{"F1 ≥ 0.88\nRecall ≥ 0.90"}
+    D -->|"✅"| E["📄 Relatório"]
+    D -->|"❌"| B
 ```
 
-**Critérios de QA (tolerância zero para falsos negativos em rede crítica):**
-- F1 Ponderado ≥ **0.88**
-- Recall para `flashover` (arco elétrico) ≥ **0.90**
-- Recall para `superaquecimento` (ponto quente) ≥ **0.90**
-
-**Stack:** Python Asyncio · Google Antigravity SDK · Gemini API · Backoff exponencial com jitter
+**QA com tolerância zero para falsos negativos em rede elétrica crítica:**
+- F1 ≥ 0.88 · Recall `flashover` ≥ 0.90 · Recall `superaquecimento` ≥ 0.90
+- Loop fechado de feedback com reajuste automático de hiperparâmetros
+- Backoff exponencial com jitter para resiliência de rede
 
 </details>
 
@@ -283,72 +234,87 @@ flowchart LR
 
 ---
 
-## 🛠️ Stack & Especialidades
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                           STACK                                   -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## &nbsp; Stack
 
 <div align="center">
 
-<!-- ML & AI -->
-**Machine Learning & Visão Computacional**
+<table>
+<tr>
+<td align="center" width="33%">
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![DINOv2](https://img.shields.io/badge/DINOv2-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+**ML & Visão**
 
-<!-- Linguagens -->
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
 **Linguagens**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Mojo](https://img.shields.io/badge/Mojo_🔥-FF6F00?style=for-the-badge&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Mojo](https://img.shields.io/badge/Mojo-FF6F00?style=flat-square&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<!-- Infra & Cloud -->
-**Infra, Cloud & Ferramentas**
+</td>
+<td align="center" width="33%">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+**Infra & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📐 Clean Code — Yetser HaTov · יצר הטוב
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                        CLEAN CODE                                 -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
-> *"Gastamos 10 horas lendo código para cada 1 hora escrevendo. Clareza não é luxo — é engenharia."*
-> — adaptado de Robert C. Martin (Uncle Bob)
+## &nbsp; Clean Code — Yetser HaTov
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🏛️ Princípios Inegociáveis
-
-- **📖 Proporção 10:1** — Clareza é prioridade absoluta
-- **⏰ Lei de LeBlanc** — *"Later equals never"*
-- **🏕️ Regra do Escoteiro** — Deixe o código mais limpo
-- **🎯 SRP** — Uma função, uma responsabilidade
-- **🚫 Zero Flags** — Sem booleanos como parâmetro
-- **🔇 CQS** — Comando OU consulta, nunca ambos
+```
+PRINCÍPIOS
+──────────
+▸ Proporção 10:1 — clareza primeiro
+▸ Lei de LeBlanc — "later = never"
+▸ Regra do Escoteiro — sempre melhor
+▸ SRP — uma função, um propósito
+▸ CQS — comando ou consulta
+▸ Zero flags booleanas
+```
 
 </td>
 <td width="50%" valign="top">
 
-#### 🧪 Padrão de Qualidade
-
-- **S.O.L.I.D.** em todas as classes
-- **F.I.R.S.T.** em todos os testes
-- Dataclasses **imutáveis** (`frozen=True`)
-- Módulos com **< 150 linhas**
-- **Zero números mágicos**
-- Exceções isoladas, **nunca `None`**
+```
+QUALIDADE
+─────────
+▸ S.O.L.I.D. em toda classe
+▸ F.I.R.S.T. em todo teste
+▸ Dataclasses imutáveis (frozen)
+▸ Módulos < 150 linhas
+▸ Zero números mágicos
+▸ Exceções isoladas, nunca None
+```
 
 </td>
 </tr>
@@ -356,64 +322,55 @@ flowchart LR
 
 ---
 
-## ⚡ Normas Técnicas Aplicadas
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                         NORMAS                                    -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## &nbsp; Normas Técnicas
 
 <div align="center">
 
-| Norma | Aplicação | Projeto |
-|:-----:|:---------:|:-------:|
-| **ABNT NBR 15866** | Máxima Temperatura Admissível (MTA) | Pyron |
-| **ABNT NBR 15572** | Severidade por ΔT em subestações | Thermal Image Classification |
-| **NETA** | ΔT entre fases semelhantes | Pyron |
-| **NFPA 70B** | Manutenção preventiva elétrica | Thermal Image Classification |
-| **IEC 60076-7** | Envelhecimento térmico de transformadores | Pyron |
-| **IEEE C57.91** | Carregamento de transformadores | Pyron |
+| Norma | Escopo |
+|:------|:-------|
+| ABNT NBR 15866 | Máxima Temperatura Admissível — MTA |
+| ABNT NBR 15572 | Severidade por ΔT em subestações |
+| NETA | ΔT entre fases semelhantes |
+| NFPA 70B | Manutenção preventiva elétrica |
+| IEC 60076-7 | Envelhecimento térmico de transformadores |
+| IEEE C57.91 | Carregamento de transformadores |
 
 </div>
 
 ---
 
-## 🧠 Atualmente Aprendendo
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                          STATS                                    -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
-```
-🧬  MLOps — ciclo de vida de modelos em produção com agentes autônomos
-📐  Álgebra Linear aplicada a Transformers (atenção e embeddings)
-🦎  Mojo & Modular MAX — inferência de borda em alta performance
-🏗️  Arquiteturas de sistemas preditivos para o setor elétrico
-```
-
----
-
-## 📊 GitHub Stats
+## &nbsp; GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielsena87&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=00d4aa&text_color=a8b2d1&ring_color=e94560" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsena87&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d1&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrielsena87&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=00d4aa&text_color=a8b2d1&ring_color=e94560&hide_title=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsena87&layout=compact&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d1&langs_count=6&hide_title=true" />
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                         CONTATO                                   -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/gabriel.vieira.eletrica@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriel.vieira.eletrica@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/gabrielsena87-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielsena87)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielsena87)
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsena87&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=00d4aa&sideLabels=a8b2d1&dates=a8b2d1" />
-
-</div>
-
----
-
-## 🤝 Vamos Conversar?
-
-<div align="center">
-
-Estou aberto a colaborações em projetos de **visão computacional**, **ML aplicado ao setor elétrico** e **pesquisa industrial**.
-Se você trabalha com problemas difíceis que precisam de rigor matemático + execução prática — **me chama**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Sena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielsena87)
-[![Gmail](https://img.shields.io/badge/E--mail-Enviar%20mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.vieira.eletrica@gmail.com)
-
----
-
-<samp>⚡ "O código limpo faz uma coisa bem feita." — Bjarne Stroustrup<br/>Dados são energia bruta — meu trabalho é transformá-los em inteligência preditiva. 🔥</samp>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer" width="100%"/>
+<sub><i>"O código limpo faz uma coisa bem feita."</i> — Bjarne Stroustrup</sub>
 
 </div>
