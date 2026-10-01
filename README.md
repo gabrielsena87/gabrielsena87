@@ -11,7 +11,7 @@
 <!-- ═══════════ TYPING SVG ═══════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=E94560&center=true&vCenter=true&repeat=true&width=650&height=30&lines=Thermal+Vision+%7C+Predictive+Maintenance+%7C+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=E94560&center=true&vCenter=true&repeat=true&width=680&height=30&lines=Machine+Learning+Engineer+%7C+Engenharia+El%C3%A9trica+UFCG+⚡;May+the+Force+be+with+your+code+%F0%9F%94%B4;Clean+Code+%C2%B7+Vision+Transformers+%C2%B7+Predictive+Maintenance" alt="Typing SVG" />
 </a>
 
 <br/><br/>
