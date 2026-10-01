@@ -11,14 +11,14 @@
 <!-- ═══════════ TYPING SVG ═══════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=E94560&center=true&vCenter=true&repeat=true&width=680&height=30&lines=Machine+Learning+Engineer+%7C+Engenharia+El%C3%A9trica+UFCG+⚡;May+the+Force+be+with+your+code+%F0%9F%94%B4;Clean+Code+%C2%B7+Vision+Transformers+%C2%B7+Predictive+Maintenance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=E94560&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Machine%20Learning%20Engineer%20%7C%20Engenharia%20Eletrica%20UFCG;May%20the%20Force%20be%20with%20your%20code;Clean%20Code%20%7C%20Vision%20Transformers%20%7C%20Predictive%20Maintenance" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- ═══════════ IDENTITY BADGES ═══════════ -->
 
-[![UFCG](https://img.shields.io/badge/Engenharia_Elétrica-UFCG-e94560?style=flat-square&labelColor=0d1117)](https://www.ufcg.edu.br/)&nbsp;&nbsp;
+[![UFCG](https://img.shields.io/badge/Engenharia_Eletrica-UFCG-e94560?style=flat-square&labelColor=0d1117)](https://www.ufcg.edu.br/)&nbsp;&nbsp;
 [![Embrapii](https://img.shields.io/badge/P%26D_Industrial-Embrapii-00d4aa?style=flat-square&labelColor=0d1117)](https://embrapii.org.br/)&nbsp;&nbsp;
 [![HPC](https://img.shields.io/badge/HPC-Supercomputador_Corisco-6c63ff?style=flat-square&labelColor=0d1117)](#)
 
