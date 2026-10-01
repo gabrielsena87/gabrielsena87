@@ -371,6 +371,6 @@ QUALIDADE
 
 <br/><br/>
 
-<sub><i>"O código limpo faz uma coisa bem feita."</i> — Bjarne Stroustrup</sub>
+<sub><i>"The best way to predict the future is to create it."</i> — Peter Drucker</sub>
 
 </div>
