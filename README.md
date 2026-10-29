@@ -49,6 +49,7 @@ class GabrielSena:
         "Predictive Maintenance via Thermography",
         "Vision Transformers · DINOv2 · ViT",
         "High-Voltage Systems · NBR 15866 · IEC 60076-7",
+        "Data Engineering & Election Forensics",
         "MLOps with Autonomous AI Agents",
         "Clean Code · SOLID · F.I.R.S.T.",
     ]
@@ -227,6 +228,38 @@ flowchart LR
 - F1 ≥ 0.88 · Recall `flashover` ≥ 0.90 · Recall `superaquecimento` ≥ 0.90
 - Loop fechado de feedback com reajuste automático de hiperparâmetros
 - Backoff exponencial com jitter para resiliência de rede
+
+</details>
+
+<br/>
+
+<!-- ── 06 · ELECTION FORENSICS ─────────────────────────────────── -->
+
+> ### ⚖️ &nbsp;[Auditoria Forense Eleitoral — Eleições 2026](https://github.com/gabrielsena87/analise_de_dados_TRE)
+>
+> Pipeline de **Election Forensics** e engenharia de dados em escala sobre **499.205 seções eleitorais** do TSE — aplicação da **Lei de Benford**, **Uniformidade do Último Dígito (Chi²)** e **Modelo Forense 2D de Klimek et al. (PNAS)** para detecção de anomalias estatísticas e reconstrução temporal da apuração.
+>
+> `Election Forensics` `Pandas` `SciPy` `NumPy` `TSE Open Data` `Matplotlib` `Chart.js`
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;→ ver detalhes</summary>
+
+<br/>
+
+| Dimensão | Escopo do Pipeline |
+|:---------|:-------------------|
+| Universo Auditado | **499.205 seções eleitorais** (todas as 27 UFs + exterior) |
+| Eleitorado / Votos | **128.236.074 votos computados** (124.082.273 válidos) |
+| Metodologia 1 | Lei de Benford — 1º Dígito significativo nas contagens de urna |
+| Metodologia 2 | Teste dos Últimos Dígitos — Uniformidade estocástica ($\chi^2$, $p > 0.25$) |
+| Metodologia 3 | Modelo 2D de Klimek et al. (PNAS) — detecção de *ballot stuffing* ($|r| < 0.10$) |
+| Visualização | Dashboards web dinâmicos (Chart.js) + Painéis analíticos 300 DPI |
+
+**Destaques:**
+- Reconstrução da totalização minuto a minuto a partir dos metadados de transmissão dos BUs (`DT_BU_RECEBIDO`)
+- Teste de hipótese nula com p-valores de 81,26% e 25,32% comprovando uniformidade dos dígitos finais
+- Correlação de $r = \pm 0,09$ descartando anomalias de inflação artificial de urnas (*ballot stuffing*)
+- Mapeamento e auditoria de seções com 100% dos votos em microcomunidades isoladas (0,022% do país)
 
 </details>
 
