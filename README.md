@@ -1,5 +1,6 @@
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--              G A B R I E L   S E N A  ·  G I T H U B              -->
+<!--     G A B R I E L   V I E I R A  ( @ g a b r i e l s e n a 8 7 )  -->
+<!--     IDENTIDADE VISUAL: APOIE // CINEMATIC BRUTALISM & DOSSIER     -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -8,72 +9,92 @@
 
 <br/>
 
-<!-- ═══════════ TYPING SVG ═══════════ -->
+<!-- ═══════════ TYPING SVG (APOIE AMBER #FFB400) ═══════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=E94560&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Machine%20Learning%20Engineer%20%7C%20Engenharia%20Eletrica%20UFCG;May%20the%20Force%20be%20with%20your%20code;Clean%20Code%20%7C%20Vision%20Transformers%20%7C%20Predictive%20Maintenance" alt="Typing SVG" />
+<a href="https://gabrielvieira-portfolio.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1200&color=FFB400&center=true&vCenter=true&repeat=true&width=720&height=45&lines=GABRIEL+VIEIRA+%2F%2F+VIS%C3%83O+COMPUTACIONAL+%26+IA;ENGENHARIA+EL%C3%89TRICA+UFCG+%C2%B7+EMBRAPII+%2F+PAQTCPB;CORISCO+HPC+%C2%B7+DIGITAL+TWINS+%C2%B7+EDUCA%C3%87%C3%83O+ABERTA" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- ═══════════ IDENTITY BADGES ═══════════ -->
+<!-- ═══════════ PORTFOLIO & APOIE IDENTITY BADGES ═══════════ -->
 
-[![UFCG](https://img.shields.io/badge/Engenharia_Eletrica-UFCG-e94560?style=flat-square&labelColor=0d1117)](https://www.ufcg.edu.br/)&nbsp;&nbsp;
-[![Embrapii](https://img.shields.io/badge/P%26D_Industrial-Embrapii-00d4aa?style=flat-square&labelColor=0d1117)](https://embrapii.org.br/)&nbsp;&nbsp;
-[![HPC](https://img.shields.io/badge/HPC-Supercomputador_Corisco-6c63ff?style=flat-square&labelColor=0d1117)](#)
+[![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO_INTERATIVO-ACESSE_AQUI-ffb400?style=for-the-badge&labelColor=070707)](https://gabrielvieira-portfolio.vercel.app/)&nbsp;&nbsp;
+[![Campanha APOIE](https://img.shields.io/badge/PROJETO_APOIE-EDUCA%C3%87%C3%83O_ABERTA-ffffff?style=for-the-badge&labelColor=0d0d0d)](https://github.com/gabrielsena87/apoie-lat-ufcg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gabrielsena87&color=e94560&style=flat-square&label=views)
+[![UFCG](https://img.shields.io/badge/Engenharia_El%C3%A9trica-UFCG-ffb400?style=flat-square&labelColor=070707)](https://www.ufcg.edu.br/)&nbsp;&nbsp;
+[![Embrapii](https://img.shields.io/badge/P%26D_Industrial-Embrapii_%2F_PaqTcPB-f2f2f2?style=flat-square&labelColor=070707)](https://embrapii.org.br/)&nbsp;&nbsp;
+[![HPC](https://img.shields.io/badge/HPC-Supercomputador_Corisco-ffb400?style=flat-square&labelColor=070707)](https://gabrielvieira-portfolio.vercel.app/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=gabrielsena87&color=ffb400&style=flat-square&label=VIEWS&labelColor=070707)
 
 </div>
 
 <br/>
 
+---
+
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                          SOBRE MIM                                -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-## &nbsp; Sobre Mim
+## `01 //` Sobre Mim
 
 ```python
-class GabrielSena:
+class GabrielVieira:
     """Engenheiro que enxerga defeitos antes que eles aconteçam."""
 
+    portfolio  = "https://gabrielvieira-portfolio.vercel.app/"
     education  = "Engenharia Elétrica — UFCG"
     research   = "P&D Visão Computacional — Embrapii / PaqTcPB"
     hpc        = "Supercomputador Corisco — treinamento de modelos em escala"
+    mission    = "Projeto APOIE — plataforma aberta de cursos gratuitos de IA & Visão"
     philosophy = "Yetser HaTov — código intencional, limpo por princípio"
 
     focus = [
-        "Predictive Maintenance via Thermography",
-        "Vision Transformers · DINOv2 · ViT",
-        "High-Voltage Systems · NBR 15866 · IEC 60076-7",
-        "Data Engineering & Election Forensics",
-        "MLOps with Autonomous AI Agents",
+        "Predictive Maintenance via Thermography (Pyron)",
+        "Vision Transformers · DINOv2 · ViT · Spatial Metrology 3D",
+        "High-Voltage Systems · NBR 15866 · NBR 15572 · IEC 60076-7",
+        "Digital Twins 3D · Election Forensics · MLOps Multiagente",
         "Clean Code · SOLID · F.I.R.S.T.",
     ]
 ```
 
-Minha trajetória começou nos circuitos e sistemas da Engenharia Elétrica na **UFCG**. Lá aprendi algo fundamental: **todo problema complexo tem estrutura matemática**. Essa base me levou para **Machine Learning e Visão Computacional**, onde utilizo o supercomputador **Corisco** para treinar **Vision Transformers (DINOv2)** aplicados à **termografia preditiva de ativos elétricos de alta tensão**.
+Minha trajetória nasce da união entre a **Engenharia Elétrica na UFCG** e a pesquisa aplicada em **Inteligência Artificial e Visão Computacional** na **Embrapii / Parque Tecnológico da Paraíba**. No **Supercomputador Corisco**, treino modelos como **Vision Transformers (DINOv2)** aplicados à **termografia preditiva de subestações e transformadores de alta tensão**.
 
-Hoje construo a ponte entre normas técnicas (NBR 15866, IEC 60076-7) e modelos de visão computacional que **preveem falhas antes que aconteçam**.
+Hoje construo a ponte entre normas técnicas, reconstrução 3D e sistemas autônomos — e lidero o [**Projeto APOIE**](https://github.com/gabrielsena87/apoie-lat-ufcg) para estruturar uma **plataforma aberta de cursos gratuitos** para estudantes de engenharia.
+
+> 🔗 **Portfólio completo & Dossiê Técnico:** [gabrielvieira-portfolio.vercel.app](https://gabrielvieira-portfolio.vercel.app/)
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                          PROJETOS                                 -->
+<!--                     PROJETOS EM DESTAQUE                          -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-## &nbsp; Projetos
+## `02 //` Projetos em Destaque
+
+<br/>
+
+<!-- ── 00 · PROJETO APOIE ───────────────────────────────────────── -->
+
+> ### 🟡 &nbsp;[APOIE — Dossiê Técnico, Portfólio & Educação Aberta](https://github.com/gabrielsena87/apoie-lat-ufcg)
+>
+> Plataforma interativa de **portfólio e campanha de apoio científico** para montar uma estação de pesquisa local (RTX 3060 12 GB + 32 GB RAM) e hospedar **cursos gratuitos de Visão Computacional e HPC** para estudantes da UFCG.
+>
+> `HTML5` `CSS3 Brutalista` `JavaScript` `Carrossel 3D` `Vercel` · **[Acessar Portfólio →](https://gabrielvieira-portfolio.vercel.app/)**
 
 <br/>
 
 <!-- ── 01 · PYRON ───────────────────────────────────────────────── -->
 
-> ### 🔥 &nbsp;[Pyron — Manutenção Preditiva por Termografia](https://github.com/gabrielsena87/Pyron---Embrapii)
+> ### 🔥 &nbsp;[Pyron — Manutenção Preditiva & Painel de Dados Térmicos](https://github.com/gabrielsena87/Pyron---Embrapii)
 >
-> Software industrial para diagnóstico preditivo de **transformadores de potência** e **subestações** de alta tensão.
+> Software industrial para diagnóstico preditivo de **transformadores de potência** e **subestações** de alta tensão, com **painel analítico histórico** (Normal, Alerta e Crítico) e emissão automática de laudos periciais em PDF.
 >
 > `PyTorch` `ONNX` `FastAPI` `OpenCV` `FLIR` `ReportLab` `C#`
 
@@ -94,14 +115,45 @@ Hoje construo a ponte entre normas técnicas (NBR 15866, IEC 60076-7) e modelos 
 - Ingestão radiométrica FLIR + algoritmo de inversão de paleta de cores
 - Motor normativo duplo — **ABNT NBR 15866** (MTA Projetada) + **NETA** (ΔT entre fases)
 - Gêmeo físico — envelhecimento de isolamento via Arrhenius (IEC 60076-7 / IEEE C57.91)
-- Geração automática de laudos periciais em PDF
+- Painel histórico de temperatura e classificação automática de risco ao longo do tempo
 - Detectores ONNX treinados com anotações CVAT
 
 </details>
 
 <br/>
 
-<!-- ── 02 · THERMAL IMAGE CLASSIFICATION ────────────────────────── -->
+<!-- ── 02 · DETECTOR DE MEDIDAS 3D ──────────────────────────────── -->
+
+> ### 📐 &nbsp;[Medição 3D com Câmera Comum (Spatial Metrology)](https://github.com/gabrielsena87/Detector-de-medidas)
+>
+> Sistema de **Visão Computacional 3D** que estima **largura, altura e profundidade** reais usando apenas câmera comum — substituindo sensores a laser de alto custo com **erro menor que 5%** entre 0,8 m e 12 m.
+>
+> `Visão 3D` `Depth Estimation` `Calibração` `OpenCV` `Python`
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;→ ver detalhes</summary>
+
+<br/>
+
+- Separação de objetos na cena e estimativa monocular de profundidade
+- Calibração por referência visual para cálculo métrico real (largura, altura e distância)
+- Aplicável a robótica, inspeções industriais sem contato físico e mapeamento 3D
+
+</details>
+
+<br/>
+
+<!-- ── 03 · DIGITAL TWIN 3D ─────────────────────────────────────── -->
+
+> ### 🌐 &nbsp;[Modelo 3D Interativo de Subestação (Digital Twin)](https://gabrielvieira-portfolio.vercel.app/)
+>
+> Réplica virtual em **3D** de subestações elétricas conectada às medições térmicas do **Pyron**, permitindo visualizar pontos de superaquecimento no espaço real e agir antes de falhas críticas.
+>
+> `Digital Twin 3D` `Termografia` `Pyron` `Prevenção de Falhas`
+
+<br/>
+
+<!-- ── 04 · THERMAL IMAGE CLASSIFICATION ────────────────────────── -->
 
 > ### ⚡ &nbsp;[Predição Industrial com Imagens Térmicas](https://github.com/gabrielsena87/modelo-de-predicao-industrial-com-imagens-termicas)
 >
@@ -134,9 +186,9 @@ Hoje construo a ponte entre normas técnicas (NBR 15866, IEC 60076-7) e modelos 
 
 <br/>
 
-<!-- ── 03 · HYBRID PIPELINE ────────────────────────────────────── -->
+<!-- ── 05 · HYBRID PIPELINE ────────────────────────────────────── -->
 
-> ### 🧠 &nbsp;[Thermal Vision AI — DINOv2 + SIFT](https://github.com/gabrielsena87/projetos)
+> ### 🧠 &nbsp;[Thermal Vision AI — DINOv2 + SIFT](https://github.com/gabrielsena87)
 >
 > Pipeline de **ensemble stacking** que combina deep features (DINOv2 768-D) com descritores geométricos (SIFT 128-D) → vetor híbrido de **896 dimensões** — **99.10%** de acurácia.
 >
@@ -175,7 +227,7 @@ Fine-tuning supervisionado de ViT · Dashboard HTML automático · CLI de infer�
 
 <br/>
 
-<!-- ── 04 · MOJO REALTIME ──────────────────────────────────────── -->
+<!-- ── 06 · MOJO REALTIME ──────────────────────────────────────── -->
 
 > ### 🏎️ &nbsp;ViT Termovision — Tempo Real com Mojo
 >
@@ -202,7 +254,7 @@ Fine-tuning supervisionado de ViT · Dashboard HTML automático · CLI de infer�
 
 <br/>
 
-<!-- ── 05 · MLOPS ORCHESTRATOR ─────────────────────────────────── -->
+<!-- ── 07 · MLOPS ORCHESTRATOR ─────────────────────────────────── -->
 
 > ### 🤖 &nbsp;Orquestrador MLOps Multiagente
 >
@@ -233,7 +285,7 @@ flowchart LR
 
 <br/>
 
-<!-- ── 06 · ELECTION FORENSICS ─────────────────────────────────── -->
+<!-- ── 08 · ELECTION FORENSICS ─────────────────────────────────── -->
 
 > ### ⚖️ &nbsp;[Auditoria Forense Eleitoral — Eleições 2026](https://github.com/gabrielsena87/analise_de_dados_TRE)
 >
@@ -253,15 +305,23 @@ flowchart LR
 | Metodologia 1 | Lei de Benford — 1º Dígito significativo nas contagens de urna |
 | Metodologia 2 | Teste dos Últimos Dígitos — Uniformidade estocástica ($\chi^2$, $p > 0.25$) |
 | Metodologia 3 | Modelo 2D de Klimek et al. (PNAS) — detecção de *ballot stuffing* ($|r| < 0.10$) |
-| Visualização | Dashboards web dinâmicos (Chart.js) + Painéis analíticos 300 DPI |
+| Metodologia 4 | Reconstrução Temporal & Outliers — análise de 100% de votos em comunidades isoladas |
 
-**Destaques:**
-- Reconstrução da totalização minuto a minuto a partir dos metadados de transmissão dos BUs (`DT_BU_RECEBIDO`)
 - Teste de hipótese nula com p-valores de 81,26% e 25,32% comprovando uniformidade dos dígitos finais
 - Correlação de $r = \pm 0,09$ descartando anomalias de inflação artificial de urnas (*ballot stuffing*)
 - Mapeamento e auditoria de seções com 100% dos votos em microcomunidades isoladas (0,022% do país)
 
 </details>
+
+<br/>
+
+<!-- ── 09 · SHLOMO AI ENGINEER ─────────────────────────────────── -->
+
+> ### 🏛️ &nbsp;Shlomo — Assistente de IA para Projetos Elétricos *(Em Desenvolvimento)*
+>
+> Assistente de Inteligência Artificial dedicado à engenharia elétrica, unindo **dimensionamento de circuitos, quadros de carga e conformidade normativa** à leitura automática de plantas baixas, diagramas e fotos de obra.
+>
+> `Engenharia Elétrica` `Visão Multimodal` `Normas Técnicas` `IA Aplicada`
 
 <br/>
 
@@ -271,7 +331,7 @@ flowchart LR
 <!--                           STACK                                   -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-## &nbsp; Stack
+## `03 //` Stack
 
 <div align="center">
 
@@ -281,30 +341,30 @@ flowchart LR
 
 **ML & Visão**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-070707?style=flat-square&logo=pytorch&logoColor=ffb400)
+![ONNX](https://img.shields.io/badge/ONNX-070707?style=flat-square&logo=onnx&logoColor=ffb400)
+![OpenCV](https://img.shields.io/badge/OpenCV-070707?style=flat-square&logo=opencv&logoColor=ffb400)
+![Scikit-learn](https://img.shields.io/badge/sklearn-070707?style=flat-square&logo=scikitlearn&logoColor=ffb400)
 
 </td>
 <td align="center" width="33%">
 
 **Linguagens**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Mojo](https://img.shields.io/badge/Mojo-FF6F00?style=flat-square&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-070707?style=flat-square&logo=python&logoColor=ffb400)
+![Mojo](https://img.shields.io/badge/Mojo-070707?style=flat-square&logoColor=ffb400)
+![C#](https://img.shields.io/badge/C%23-070707?style=flat-square&logo=csharp&logoColor=ffb400)
+![JS](https://img.shields.io/badge/JavaScript-070707?style=flat-square&logo=javascript&logoColor=ffb400)
 
 </td>
 <td align="center" width="33%">
 
 **Infra & Tools**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-070707?style=flat-square&logo=fastapi&logoColor=ffb400)
+![CUDA](https://img.shields.io/badge/CUDA-070707?style=flat-square&logo=nvidia&logoColor=ffb400)
+![Git](https://img.shields.io/badge/Git-070707?style=flat-square&logo=git&logoColor=ffb400)
+![Linux](https://img.shields.io/badge/Linux-070707?style=flat-square&logo=linux&logoColor=ffb400)
 
 </td>
 </tr>
@@ -318,7 +378,7 @@ flowchart LR
 <!--                        CLEAN CODE                                 -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-## &nbsp; Clean Code — Yetser HaTov
+## `04 //` Clean Code — Yetser HaTov
 
 <table>
 <tr>
@@ -359,7 +419,7 @@ QUALIDADE
 <!--                         NORMAS                                    -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-## &nbsp; Normas Técnicas
+## `05 //` Normas Técnicas
 
 <div align="center">
 
@@ -377,16 +437,16 @@ QUALIDADE
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                          STATS                                    -->
+<!--                    STATS (APOIE AMBER THEME)                      -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-## &nbsp; GitHub
+## `06 //` GitHub
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrielsena87&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=00d4aa&text_color=a8b2d1&ring_color=e94560&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrielsena87&show_icons=true&hide_border=true&bg_color=070707&title_color=ffb400&icon_color=ffb400&text_color=f2f2f2&ring_color=ffb400&hide_title=true" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsena87&layout=compact&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d1&langs_count=6&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsena87&layout=compact&hide_border=true&bg_color=070707&title_color=ffb400&text_color=f2f2f2&langs_count=6&hide_title=true" />
 
 </div>
 
@@ -398,9 +458,10 @@ QUALIDADE
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/gabriel.vieira.eletrica@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriel.vieira.eletrica@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/gabrielsena87-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielsena87)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielsena87)
+[![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-gabrielvieira--portfolio.vercel.app-ffb400?style=flat-square&labelColor=070707)](https://gabrielvieira-portfolio.vercel.app/)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/gabriel.vieira.eletrica@gmail.com-070707?style=flat-square&logo=gmail&logoColor=ffb400)](mailto:gabriel.vieira.eletrica@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/gabrielsena87-070707?style=flat-square&logo=github&logoColor=ffb400)](https://github.com/gabrielsena87)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-070707?style=flat-square&logo=linkedin&logoColor=ffb400)](https://www.linkedin.com/in/gabriel-sena-0802b5212)
 
 <br/><br/>
 
