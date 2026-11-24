@@ -325,6 +325,36 @@ flowchart LR
 
 <br/>
 
+<!-- ── 10 · EDGE-EMS (ESP32 AUTOMATION & CONTROL) ────────────────── -->
+
+> ### 🔌 &nbsp;[Edge-EMS — Automação, Controle & Telemetria Elétrica com ESP32](https://github.com/gabrielsena87/esp32-edge-ems-automation)
+>
+> Sistema ciberfísico de borda (**ESP32 + HW-316 4 canais + PZEM-004T V3.0**) voltado a **automação elétrica, proteção determinística (ANSI 27/59/50-51), manutenção preditiva (NILM/Anomalias)** e **Gestão Dinâmica de Carga (DLM)** para recarga de veículos elétricos em condomínios.
+>
+> `ESP32` `C++` `PlatformIO` `Modbus-RTU` `SQLite WAL` `Python` `HTTP/MQTT`
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;→ ver detalhes</summary>
+
+<br/>
+
+| Camada | Tecnologias & Arquitetura |
+|:-------|:--------------------------|
+| Borda (Firmware) | ESP32 DevKit V1 · C++ (PlatformIO) · 3 ambientes (`etapa0_casa`, `mock`, `real_pzem`) |
+| Atuação & Isolação | Módulo relé 4 canais optoacoplado (`HW-316`, Active-LOW *fail-safe* sem *boot glitch*) |
+| Medição & Escala | `PZEM-004T V3.0` (Modbus-RTU) · TC `100 A / 50 mA` · Conversor lógico `BSS138` (5 V ↔ 3,3 V) |
+| Coleta & Dados | Python (`uv`) · SQLite WAL (`telemetry` + `events`, indexado por `state_mask` 0..15) |
+
+**Destaques:**
+- Painel web responsivo embarcado no ESP32 (AP offline `ESP32-CASA` ou Wi-Fi STA + mDNS) com controle `K1..K4`, timers e pulso *Reiniciar 10s*
+- Proteção determinística local inspirada em **ANSI/IEEE C37.2** (`27` Subtensão, `59` Sobretensão, `50/51` Sobrecorrente com trava *latch*)
+- Auto-rotulagem de 16 estados ($2^4$) para **NILM**, detecção de anomalias e estimativa de mau contato ($\Delta V = R_{\text{linha}} \cdot \Delta I$)
+- Roadmap de DLM para recarga VE alinhado a **ABNT NBR 17019**, **IEC 61851-1** e **OCPP**
+
+</details>
+
+<br/>
+
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
@@ -355,6 +385,7 @@ flowchart LR
 ![Mojo](https://img.shields.io/badge/Mojo-070707?style=flat-square&logoColor=ffb400)
 ![C#](https://img.shields.io/badge/C%23-070707?style=flat-square&logo=csharp&logoColor=ffb400)
 ![JS](https://img.shields.io/badge/JavaScript-070707?style=flat-square&logo=javascript&logoColor=ffb400)
+![C++](https://img.shields.io/badge/C%2B%2B-070707?style=flat-square&logo=cplusplus&logoColor=ffb400)
 
 </td>
 <td align="center" width="33%">
@@ -365,6 +396,8 @@ flowchart LR
 ![CUDA](https://img.shields.io/badge/CUDA-070707?style=flat-square&logo=nvidia&logoColor=ffb400)
 ![Git](https://img.shields.io/badge/Git-070707?style=flat-square&logo=git&logoColor=ffb400)
 ![Linux](https://img.shields.io/badge/Linux-070707?style=flat-square&logo=linux&logoColor=ffb400)
+![ESP32](https://img.shields.io/badge/ESP32-070707?style=flat-square&logo=espressif&logoColor=ffb400)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-070707?style=flat-square&logo=platformio&logoColor=ffb400)
 
 </td>
 </tr>
@@ -431,6 +464,9 @@ QUALIDADE
 | NFPA 70B | Manutenção preventiva elétrica |
 | IEC 60076-7 | Envelhecimento térmico de transformadores |
 | IEEE C57.91 | Carregamento de transformadores |
+| ABNT NBR 5410 | Instalações elétricas de baixa tensão |
+| ABNT NBR 17019 | Instalações para alimentação de veículos elétricos |
+| IEC 61851-1 | Sistema condutivo de recarga de veículos elétricos |
 
 </div>
 
